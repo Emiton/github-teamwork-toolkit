@@ -57,7 +57,8 @@ To delete the local feature branch, make sure that you are on master first by us
 #### Protip for users maintaing a MAIN repo
 If you are maintaining a repo that people are contributing to, your going to want to test pull requests before you accept them. You can use the command `$ git fetch origin pull/ID/head:BRANCHNAME`. In this command the ID, is the ID of the pull request that you want to play with. The 'BRANCHNAME' will create branch of that name in your local repo.
 
-### Fork and Pull Summary :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
+:fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
+### Fork and Pull Summary
 #### Set up - only done once:
 1. Fork the main repo
 2. Clone your fork: `$ git clone` to clone your fork
