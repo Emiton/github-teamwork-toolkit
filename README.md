@@ -70,7 +70,7 @@ If you are maintaining a repo that people are contributing to, your going to wan
 4. Push changes to fork: `git push origin master`
 #### Making Local Changes
 1. Make sure you are on master: `$ git checkout master`
-2. Create feature branch: '$ git checkout -b FEATURE_BRANCH'
+2. Create feature branch: `$ git checkout -b FEATURE_BRANCH`
 3. Save local changes using `$ git add` and `$ git commit`
 4. Push local changes to fork: `git push -u origin FEATURE_BRANCH`
 #### Pull requests
