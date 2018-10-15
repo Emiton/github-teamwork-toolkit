@@ -52,7 +52,7 @@ If you pull request is approved, you want to delete your feature branch. The cha
 * Option 2: Open your terminal in your local repo and use the command `$git push origin --delete <feature_branch>` , where feature branch is the name of the branch that was accepted in the pull request  
 
 **Step 2 - Delete local feature branch:**
-To delete the local feature branch, make sure that you are on master first by using `$ git checkout master`. Then delete the feature branch by using `$ git branch -d FEATURE_BRANCH`. You can also use `$ git branch -D FEATURE_BRANCH`, but using the captial 'D' will force delete the branch, even if there is an issue. So BE CAREFUL.
+To delete the local feature branch, make sure that you are on master first by using `$ git checkout master`. Then delete the feature branch by using `$ git branch -d FEATURE_BRANCH`. You can also use `$ git branch -D FEATURE_BRANCH`, but using the capital 'D' will force delete the branch, even if there is an issue. So BE CAREFUL.
 
 #### Protip for users maintaing a MAIN repo
 If you are maintaining a repo that people are contributing to, your going to want to test pull requests before you accept them. You can use the command `$ git fetch origin pull/ID/head:BRANCHNAME`. In this command the ID, is the ID of the pull request that you want to play with. The 'BRANCHNAME' will create branch of that name in your local repo.
