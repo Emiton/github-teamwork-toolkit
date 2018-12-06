@@ -1,6 +1,6 @@
 # GitHub Teamwork Toolkit
 
-This repo will provide programmers with some basic knowledge necessary when making contributions to projects. It is meant to referenced in tandem with the live presentation of "GitHub Teamwork Toolkit".
+This repo will provide programmers with some basic knowledge necessary when making contributions to projects. It is meant to be referenced in tandem with the live presentation of "GitHub Teamwork Toolkit".
 
 ### Contents
 1. [Fork and Pull Workflow](#fork-and-pull-workflow)
