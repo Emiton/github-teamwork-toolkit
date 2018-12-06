@@ -45,7 +45,7 @@ If you haven't made a pull request. Today is a big day for you bud. After pushin
 ![Pull request](/photos/pull_request.png) 
 
 #### After Pull Request is Approved
-If you pull request is approved, you want to delete your feature branch. The changes and commits you made are now a part of the main repo, congrats!  
+If your pull request is approved, you want to delete your feature branch. The changes and commits you made are now a part of the main repo, congrats!  
 **Step 1 - Delete the remote feature branch:** 
 * Option 1: Go to pull request page and click the 'Delete branch' button (see photo below)
 ![Delete remote](/photos/delete_remote.png)
