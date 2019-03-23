@@ -97,6 +97,6 @@ As you see above there are many lines that start with '#'. These are just commen
 
 When you are done writing your message, hit `CTRL+O` to 'write out' your message. You should see the options at the bottom of your screen change. There should also be something that says 'File Name to Write: path/to/blah/blah'. Hit enter to save your commit message. Your commit is now saved and you can hit `CTRL + X` to exit the text editor.
 
-MUCH WOW! :see_no_evil: GREAT COMMIT MESSAGE! :muscle: GOOGLE HERE I COME! :neckbeard:
+MUCH WOW! :see_no_evil: GREAT COMMIT MESSAGE! :muscle: SILICON VALLEY HERE I COME! :neckbeard:
 
 
